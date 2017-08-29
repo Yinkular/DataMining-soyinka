@@ -1,5 +1,5 @@
 # DataMining-soyinka
-Repository for data mining falls class.
+Repository for data mining Fall class taught by Dr Terry Griffin.
 
 FirstName - Olayinka  
 LastName - Soyinka  
