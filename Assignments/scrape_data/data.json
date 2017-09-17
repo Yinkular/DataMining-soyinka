@@ -1,0 +1,662 @@
+[
+ {
+  "name": "Highlander Public House",
+  "reviews": "42 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 247-2508"
+ },
+ {
+  "name": "Willie\u2019s Place",
+  "reviews": "96 reviews",
+  "priceRange": "$",
+  "phone": "(940) 687-2271"
+ },
+ {
+  "name": "Korean BBQ",
+  "reviews": "18 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 285-5117"
+ },
+ {
+  "name": "The Gypsy Kit",
+  "reviews": "113 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 264-8646"
+ },
+ {
+  "name": "Gutierrez Restaurant",
+  "reviews": "127 reviews",
+  "priceRange": "$",
+  "phone": "(940) 322-3511"
+ },
+ {
+  "name": "Backporch Drafthouse",
+  "reviews": "133 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 234-7777"
+ },
+ {
+  "name": "Bricktown Tap House & Kitchen",
+  "reviews": "79 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 228-7501"
+ },
+ {
+  "name": "Firehouse Subs",
+  "reviews": "4 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 696-8775"
+ },
+ {
+  "name": "Curry Garden",
+  "reviews": "44 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 234-1014"
+ },
+ {
+  "name": "Gourmet On The Fly",
+  "reviews": "24 reviews",
+  "priceRange": "$",
+  "phone": "(940) 855-1244"
+ },
+ {
+  "name": "2011 Bistro",
+  "reviews": "34 reviews",
+  "priceRange": "$",
+  "phone": "(940) 757-0199"
+ },
+ {
+  "name": "Pelican",
+  "reviews": "55 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 687-0072"
+ },
+ {
+  "name": "Stone Oven Gourmet Pizza & Eatery",
+  "reviews": "72 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 692-7768"
+ },
+ {
+  "name": "Hibiscus Cafe Greek Specialties",
+  "reviews": "105 reviews",
+  "priceRange": "$",
+  "phone": "(940) 855-5881"
+ },
+ {
+  "name": "Branding Iron",
+  "reviews": "78 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 723-0338"
+ },
+ {
+  "name": "Opa\u2019s Schnitzel Haus",
+  "reviews": "87 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 613-0611"
+ },
+ {
+  "name": "Gyros & Kebobs",
+  "reviews": "78 reviews",
+  "priceRange": "$",
+  "phone": "(940) 692-6991"
+ },
+ {
+  "name": "Salt & Pepper",
+  "reviews": "27 reviews",
+  "priceRange": "$$$$",
+  "phone": "(940) 691-9800"
+ },
+ {
+  "name": "McBride\u2019s Steakhouse",
+  "reviews": "92 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 263-0229"
+ },
+ {
+  "name": "Gourmet On The Fly",
+  "reviews": "24 reviews",
+  "priceRange": "$",
+  "phone": "(940) 855-1244"
+ },
+ {
+  "name": "Solorzano\u2019s",
+  "reviews": "8 reviews",
+  "priceRange": "$",
+  "phone": "(940) 228-5816"
+ },
+ {
+  "name": "PHO Caf\u00e9",
+  "reviews": "56 reviews",
+  "priceRange": "$",
+  "phone": "(940) 766-5699"
+ },
+ {
+  "name": "Gypsy Uncorked",
+  "reviews": "17 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 264-9463"
+ },
+ {
+  "name": "Parkway Grill",
+  "reviews": "51 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 691-7640"
+ },
+ {
+  "name": "Luigi\u2019s Italian Restaurant",
+  "reviews": "29 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 855-7518"
+ },
+ {
+  "name": "Parkway Grill",
+  "reviews": "48 reviews",
+  "priceRange": "$",
+  "phone": "(940) 687-2457"
+ },
+ {
+  "name": "Burrito Shop",
+  "reviews": "18 reviews",
+  "priceRange": "$",
+  "phone": "(940) 766-4086"
+ },
+ {
+  "name": "Frank & Joe\u2019s Coffee House",
+  "reviews": "47 reviews",
+  "priceRange": "$",
+  "phone": "(940) 264-4444"
+ },
+ {
+  "name": "8th St Coffee House",
+  "reviews": "81 reviews",
+  "priceRange": "$",
+  "phone": "(940) 716-0501"
+ },
+ {
+  "name": "Rafter J BBQ & Cajun Eats",
+  "reviews": "66 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 592-4913"
+ },
+ {
+  "name": "Texas Roadhouse",
+  "reviews": "60 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 687-7427"
+ },
+ {
+  "name": "The Maplewood",
+  "reviews": "16 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 689-0404"
+ },
+ {
+  "name": "Heff\u2019s Burgers",
+  "reviews": "24 reviews",
+  "priceRange": "$",
+  "phone": "(940) 766-5942"
+ },
+ {
+  "name": "Pho Viet",
+  "reviews": "48 reviews",
+  "priceRange": "$",
+  "phone": "(940) 500-4109"
+ },
+ {
+  "name": "RibCrib",
+  "reviews": "67 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 696-2900"
+ },
+ {
+  "name": "Catfish Grill",
+  "reviews": "9 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 766-6263"
+ },
+ {
+  "name": "P2 \u201cThe Duece\u201d",
+  "reviews": "13 reviews",
+  "priceRange": "$",
+  "phone": "(940) 766-1232"
+ },
+ {
+  "name": "Hwy Cafe",
+  "reviews": "32 reviews",
+  "priceRange": "$",
+  "phone": "(940) 766-6386"
+ },
+ {
+  "name": "Cheddar\u2019s Scratch Kitchen",
+  "reviews": "49 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 692-9292"
+ },
+ {
+  "name": "Wasabi",
+  "reviews": "77 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 691-3399"
+ },
+ {
+  "name": "Pat\u2019s Drive Inn",
+  "reviews": "19 reviews",
+  "priceRange": "$",
+  "phone": "(940) 322-3531"
+ },
+ {
+  "name": "HWY Grill",
+  "reviews": "10 reviews",
+  "priceRange": "$",
+  "phone": "(940) 592-0020"
+ },
+ {
+  "name": "Jefe\u2019s Mexican Restaurant",
+  "reviews": "26 reviews",
+  "priceRange": "$",
+  "phone": "(940) 696-9500"
+ },
+ {
+  "name": "Fat Boy\u2019s",
+  "reviews": "2 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 923-3020"
+ },
+ {
+  "name": "McBride\u2019s Land and Cattle",
+  "reviews": "39 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 322-2516"
+ },
+ {
+  "name": "Samurai of Tokyo",
+  "reviews": "88 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 696-2626"
+ },
+ {
+  "name": "The Deli Planet",
+  "reviews": "62 reviews",
+  "priceRange": "$",
+  "phone": "(940) 855-1921"
+ },
+ {
+  "name": "Jolly Travel Center",
+  "reviews": "18 reviews",
+  "priceRange": "$",
+  "phone": "(940) 767-8536"
+ },
+ {
+  "name": "Jimmy\u2019s Egg",
+  "reviews": "37 reviews",
+  "priceRange": "$",
+  "phone": "(940) 285-5370"
+ },
+ {
+  "name": "La Real Michoacana",
+  "reviews": "2 reviews",
+  "priceRange": "$",
+  "phone": ""
+ },
+ {
+  "name": "Fuzzy\u2019s Taco Shop",
+  "reviews": "61 reviews",
+  "priceRange": "$",
+  "phone": "(940) 691-8226"
+ },
+ {
+  "name": "El Norteno 2",
+  "reviews": "17 reviews",
+  "priceRange": "$",
+  "phone": "(940) 691-0066"
+ },
+ {
+  "name": "Prine\u2019s Barbecue & Catering",
+  "reviews": "14 reviews",
+  "priceRange": "$",
+  "phone": "(940) 767-1131"
+ },
+ {
+  "name": "Ganache Cupcake Lounge",
+  "reviews": "39 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 766-3000"
+ },
+ {
+  "name": "Mia\u2019s Italian Bistro",
+  "reviews": "35 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 322-1010"
+ },
+ {
+  "name": "Red River Hot Dogs",
+  "reviews": "4 reviews",
+  "priceRange": "$",
+  "phone": "(940) 782-2625"
+ },
+ {
+  "name": "Harvey\u2019s Family Restaurant",
+  "reviews": "5 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 592-4731"
+ },
+ {
+  "name": "The Feed Lot",
+  "reviews": "23 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 569-9999"
+ },
+ {
+  "name": "The Simple Greek",
+  "reviews": "17 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 692-4976"
+ },
+ {
+  "name": "Ronnie\u2019s Burgers",
+  "reviews": "30 reviews",
+  "priceRange": "$",
+  "phone": "(940) 766-2970"
+ },
+ {
+  "name": "Cracker Barrel Old Country Store",
+  "reviews": "47 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 851-0664"
+ },
+ {
+  "name": "McAlister\u2019s Deli",
+  "reviews": "27 reviews",
+  "priceRange": "$",
+  "phone": "(940) 689-0800"
+ },
+ {
+  "name": "Pioneer No 3 Restaurant",
+  "reviews": "22 reviews",
+  "priceRange": "$",
+  "phone": "(940) 723-2916"
+ },
+ {
+  "name": "La Real Michoacana Ice Cream",
+  "reviews": "3 reviews",
+  "priceRange": "$",
+  "phone": ""
+ },
+ {
+  "name": "Cotton Patch Cafe",
+  "reviews": "21 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 691-6900"
+ },
+ {
+  "name": "El Fenix",
+  "reviews": "8 reviews",
+  "priceRange": "$",
+  "phone": "(940) 691-2700"
+ },
+ {
+  "name": "Joey\u2019s",
+  "reviews": "14 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 322-5701"
+ },
+ {
+  "name": "El Mejicano Restaurant & Cantina",
+  "reviews": "27 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 322-1846"
+ },
+ {
+  "name": "Chick-fil-A",
+  "reviews": "18 reviews",
+  "priceRange": "$",
+  "phone": "(940) 691-5000"
+ },
+ {
+  "name": "Sunrise & Shine Omelette Grill",
+  "reviews": "9 reviews",
+  "priceRange": "$",
+  "phone": "(940) 763-2669"
+ },
+ {
+  "name": "Gene\u2019s Tasty Burger",
+  "reviews": "26 reviews",
+  "priceRange": "$",
+  "phone": "(940) 767-1921"
+ },
+ {
+  "name": "Nacho Mama\u2019s",
+  "reviews": "16 reviews",
+  "priceRange": "$",
+  "phone": "(940) 264-6262"
+ },
+ {
+  "name": "Raising Cane\u2019s Chicken Fingers",
+  "reviews": "24 reviews",
+  "priceRange": "$",
+  "phone": "(940) 692-0388"
+ },
+ {
+  "name": "Oyster Bar & Grill",
+  "reviews": "30 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 689-0774"
+ },
+ {
+  "name": "Red Robin Gourmet Burgers",
+  "reviews": "27 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 217-5323"
+ },
+ {
+  "name": "Napolis Italian Restaurant",
+  "reviews": "14 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 692-1702"
+ },
+ {
+  "name": "Burk Market and Cafe",
+  "reviews": "9 reviews",
+  "priceRange": "$",
+  "phone": "(940) 434-1071"
+ },
+ {
+  "name": "Taco Casa #73",
+  "reviews": "9 reviews",
+  "priceRange": "$",
+  "phone": ""
+ },
+ {
+  "name": "Severiana Sevi\u2019s Burritos",
+  "reviews": "38 reviews",
+  "priceRange": "$",
+  "phone": "(940) 766-4905"
+ },
+ {
+  "name": "Jimmy John\u2019s",
+  "reviews": "13 reviews",
+  "priceRange": "$",
+  "phone": "(940) 692-0024"
+ },
+ {
+  "name": "Jason\u2019s Deli",
+  "reviews": "17 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 761-5313"
+ },
+ {
+  "name": "El Norte\u00f1o",
+  "reviews": "23 reviews",
+  "priceRange": "$",
+  "phone": "(940) 767-9745"
+ },
+ {
+  "name": "Original Casa Manana",
+  "reviews": "47 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 723-5661"
+ },
+ {
+  "name": "Thai Orchid",
+  "reviews": "25 reviews",
+  "priceRange": "$",
+  "phone": "(940) 696-8846"
+ },
+ {
+  "name": "Johnnies Chicken Box",
+  "reviews": "4 reviews",
+  "priceRange": "$",
+  "phone": "(940) 761-3529"
+ },
+ {
+  "name": "Luby\u2019s Cafeteria",
+  "reviews": "6 reviews",
+  "priceRange": "$",
+  "phone": "(940) 723-6022"
+ },
+ {
+  "name": "On The Border Mexican Grill & Cantina",
+  "reviews": "46 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 228-3580"
+ },
+ {
+  "name": "Glass Kitchen",
+  "reviews": "12 reviews",
+  "priceRange": "$",
+  "phone": "(940) 322-6620"
+ },
+ {
+  "name": "Hunan",
+  "reviews": "34 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 691-8999"
+ },
+ {
+  "name": "Margie\u2019s Sweet Shop",
+  "reviews": "8 reviews",
+  "priceRange": "$",
+  "phone": "(940) 692-2591"
+ },
+ {
+  "name": "QDOBA Mexican Eats",
+  "reviews": "24 reviews",
+  "priceRange": "$",
+  "phone": "(940) 689-8200"
+ },
+ {
+  "name": "Chili\u2019s",
+  "reviews": "14 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 692-4995"
+ },
+ {
+  "name": "Marcos Pizza",
+  "reviews": "14 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 851-8000"
+ },
+ {
+  "name": "Taco Casa",
+  "reviews": "18 reviews",
+  "priceRange": "$",
+  "phone": "(940) 692-9200"
+ },
+ {
+  "name": "Denny\u2019s",
+  "reviews": "24 reviews",
+  "priceRange": "$",
+  "phone": "(940) 723-5651"
+ },
+ {
+  "name": "Scott\u2019s Drive-In",
+  "reviews": "16 reviews",
+  "priceRange": "$",
+  "phone": "(940) 767-2921"
+ },
+ {
+  "name": "Cancun Taqueria",
+  "reviews": "3 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 285-5151"
+ },
+ {
+  "name": "Red Lobster",
+  "reviews": "16 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 691-2531"
+ },
+ {
+  "name": "Burritos Y Mas",
+  "reviews": "3 reviews",
+  "priceRange": "$",
+  "phone": "(940) 386-9319"
+ },
+ {
+  "name": "China Star Restaurant",
+  "reviews": "26 reviews",
+  "priceRange": "$",
+  "phone": "(940) 767-8000"
+ },
+ {
+  "name": "Marty\u2019s Pioneer Restaurant",
+  "reviews": "6 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 691-1798"
+ },
+ {
+  "name": "Whataburger",
+  "reviews": "16 reviews",
+  "priceRange": "$",
+  "phone": "(940) 723-1019"
+ },
+ {
+  "name": "Panda Kitchen",
+  "reviews": "24 reviews",
+  "priceRange": "$",
+  "phone": "(940) 692-9360"
+ },
+ {
+  "name": "Don Jose Mexican Restaurant of Wichita Falls",
+  "reviews": "34 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 322-9167"
+ },
+ {
+  "name": "Cielito Lindo Restaurant",
+  "reviews": "1 review",
+  "priceRange": "$$",
+  "phone": ""
+ },
+ {
+  "name": "Vaca Loca Mexican Food",
+  "reviews": "12 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 500-4587"
+ },
+ {
+  "name": "Qui\u2019s",
+  "reviews": "11 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 855-8558"
+ },
+ {
+  "name": "Buffalo Wild Wings",
+  "reviews": "37 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 696-9464"
+ },
+ {
+  "name": "Dickey\u2019s Barbecue Pit",
+  "reviews": "11 reviews",
+  "priceRange": "$$",
+  "phone": "(940) 692-4227"
+ },
+ {
+  "name": "Mckinney Bbq",
+  "reviews": "1 review",
+  "priceRange": "$$",
+  "phone": "(214) 774-7644"
+ }
+]
