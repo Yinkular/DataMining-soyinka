@@ -62,8 +62,7 @@ for i in range (0,110,10):
         time.sleep(random.randint(0,3))
         
         
-    #print list
-   # for restaurant in restaurantList:
+    # write as json output to file
     with open('data.json', 'w+') as outfile:
             jsonData = json.dumps(restaurantList,indent=True)
             outfile.write(jsonData)
