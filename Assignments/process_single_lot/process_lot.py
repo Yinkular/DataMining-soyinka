@@ -73,4 +73,9 @@ if __name__ == '__main__':
          currentSpace = str(int((i+5)/5))
          cv.imwrite("spaces/space"+ currentSpace +".png", cropped)
          
+         hist = cv.calcHist([cropped], [0, 1], None, [180, 256], [0, 180, 0, 256])
+         np.savetxt('histograms/histogram'+currentSpace+".csv", hist, delimiter=',')
+         
+        
+         
      
